@@ -1,0 +1,27 @@
+{
+  "id": "test_section",
+  "type": "SharedSlice",
+  "name": "TestSection",
+  "description": "TestSection",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "hi_there": {
+          "type": "Image",
+          "config": {
+            "label": "hi there",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
